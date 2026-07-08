@@ -1,6 +1,6 @@
 # Flagship Theme — Merchant Documentation
 
-Version 1.0.0 · Shopify Online Store 2.0 · 48 sections · no apps required
+Version 1.0.0 · Shopify Online Store 2.0 · 40+ sections · no apps required
 
 Flagship is a premium fashion theme that works as a single-product store or a
 full multi-product catalog. Everything below is done in the Shopify admin and
@@ -88,7 +88,6 @@ grid), and a “View all” button.
 | Header style | Light, or Dark (inverse) |
 | **Mega menu blocks** | Add a block, type a menu item’s exact title (e.g. *Men*) → that dropdown becomes a **full-width mega menu with a promo image** you upload. Others stay compact. Up to 3. |
 | **Categories mega menu** | The automatic collections menu: toggle, label, promo image/heading/link |
-| Wishlist page link | Shows the heart icon with a live count (see §8) |
 | Sticky header | On/off |
 
 The search icon opens **predictive search** (live product suggestions);
@@ -106,7 +105,6 @@ in the right sidebar:
 | `about` | Editorial Our-Story page: photo banner, mission/vision splits, values, press logos, newsletter, Instagram grid |
 | `faq` | Photo banner + accordion FAQ with **category headings** + “Didn’t find your answer?” banner |
 | `contact` | Photo banner + **info cards** (phone/email/hours/address) + styled form with custom fields |
-| `wishlist` | The saved-items page for the wishlist hearts |
 
 Every banner photo, heading and section on these pages is editable per page
 in the theme editor. Policies created in **Settings → Policies** list
@@ -184,14 +182,10 @@ page, and marks them up for **Google rich results** (stars in search).
 
 ---
 
-## 8. Cart, wishlist & customer accounts
+## 8. Cart & customer accounts
 
 - **Cart**: slide-out drawer (or cart page — Theme settings), live count,
   order notes, quantity editing.
-- **Wishlist** (no app): heart buttons on cards and product pages save items
-  in the shopper’s browser; create a page with the `wishlist` template and
-  link it in the Header settings to show the heart icon + count.
-  Note: device-local (doesn’t sync across a customer’s devices).
 - **Accounts**: full styled pages — sign in, register, password reset,
   order history, order detail **with tracking links**, address book.
   Works with either Shopify customer-account mode
@@ -220,7 +214,6 @@ page, and marks them up for **Google rich results** (stars in search).
 | Gallery doesn’t change with color | Assign an image to each Color value (§2) |
 | Mega menu item is a small dropdown | Add a “Mega menu” block with that item’s exact title (§4) |
 | Popup doesn’t reappear | By design — once closed it hides for N days (setting); test in a private window |
-| Wishlist heart icon missing in header | Create the wishlist page and paste its link in Header settings (§8) |
 | Star ratings not showing | Install a reviews app and collect at least one review (§7); check both rating toggles are on |
 
 ---
