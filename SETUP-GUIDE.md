@@ -1,4 +1,4 @@
-# Flagship — 30-Minute Demo Store Setup Guide
+# Meridian — 30-Minute Demo Store Setup Guide
 
 Follow these steps in your Shopify admin and the homepage transforms from
 placeholders into a full premium storefront. Themes provide the design;
@@ -75,5 +75,5 @@ Open the theme editor and click each homepage section:
 - Settings → Customer accounts: choose account type (theme includes full
   branded account pages for the Legacy option)
 - Theme settings → adjust colors, fonts, corners and spacing to make the
-  look your own (try a warm background like #FAF9F6 with a deep green
-  accent, or a near-black background for a dark store)
+  look your own (try a near-black background with a gold accent for a dark
+  store, or a sand background with a clay accent for a softer look)
